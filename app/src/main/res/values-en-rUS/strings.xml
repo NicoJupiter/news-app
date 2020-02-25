@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DMII</string>
+    <string name="first_number">Enter your first number m8</string>
+    <string name="calculer">Calculate</string>
+    <string name="result">The from %f and %f is %f</string>
+    <string name="second_number">Enter ur second number</string>
+    <string name="number_error">yo what the fuck</string>
+    <string name="ok">Okay</string>
+    <string name="cancel">Cancel</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">DMII</string>
+    <string name="first_number">Entrez le premier nombre</string>
+    <string name="calculer">Calculer</string>
+    <string name="result">La somme de %f et de %f est %f</string>
+    <string name="second_number">Entrez le deuxième nombre</string>
+    <string name="number_error">N\'importe quoi</string>
+    <string name="ok">Okay</string>
+    <string name="cancel">Cancel</string>
+</resources>
